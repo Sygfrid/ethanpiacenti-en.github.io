@@ -49,5 +49,5 @@ During my project/internship, I used Teleport to:
 
 ---
 
-[⬅ Back to my projects]({{ '/en/skills/' | relative_url }})
+[⬅ Back to my projects]({{ '/skills/' | relative_url }})
 

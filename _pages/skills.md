@@ -6,62 +6,62 @@ classes: wide
 nav: en
 ---
 
-## 🎓 Mon parcours
+## 🎓 My Background
 
-Au cours de ma formation en BUT Réseaux & Télécommunications à l'IUT de Luminy, j’ai acquis des compétences solides en réseaux, notamment à travers la configuration d’équipements **Cisco**, la découverte de la programmation et de la protection d'un système.
+During my studies in the BUT Networks & Telecommunications program at IUT de Luminy, I acquired strong skills in networking, notably through configuring Cisco equipment, discovering programming, and learning about system security.
 
-Je me prépare actuellement à entrer en **3e année en alternance**, afin de consolider mes acquis techniques et les appliquer en entreprise.
+I am currently preparing to enter my third year as a work-study student, in order to consolidate my technical knowledge and apply it in a professional environment.
 
 ---
 
-## 🔧 Compétences techniques
+## 🔧 Technical Skills
 
-### 🌐 Développement
+### 🌐 Development
 
 - Python, Bash
 - Git / GitHub
 
-### 🖥️ Réseaux & Systèmes
+### 🖥️ Networks & Systems
 
-- Configuration de routeurs & switchs Cisco, Aruba
-- VLAN, routage statique/dynamique, DHCP, DNS
-- Virtualisation (VirtualBox, vSphere)
+- Configuration of Cisco and Aruba routers & switches
+- VLAN, static/dynamic routing, DHCP, DNS
+- Virtualization (VirtualBox, vSphere)
 - Linux (Debian, Ubuntu)
 - Windows (Intune, Active Directory)
 
 ---
 
-### 🎒 Formation
-- BUT Réseau & Télécom – IUT de Luminy (2023-2026)
+### 🎒 Education
+- BUT Networks & Telecom – IUT de Luminy (2023-2026)
 
 ![Logo Cisco]({{ site.baseurl }}/assets/images/cisco.jpg)
 
-### 💼 Stage
-- Stage à la DSI de la commune de Marignane (Avril-Juin 2025)
-  - Création de la supervision de la commune.
-  - Interface graphique pour l'affichage des données importantes.
-  - Conception et Création et d'un Bastion renforçant la sécurité
+### 💼 Internship
+- Internship at the IT Department of the City of Marignane (April-June 2025)
+  - Created the city's network monitoring system.
+  - Developed a graphical interface to display key data.
+  - Designed and built a Bastion to enhance security.
  
 ### [Zabbix](../zabbix-en/)
-- Supervision d’infrastructure réseau avec Zabbix
-- Alertes, dashboards, templates personnalisés
+- Network infrastructure monitoring with Zabbix
+- Alerts, dashboards, custom templates
 
 ### [Grafana](../grafana-en/)
-- Visualisation de métriques avec Grafana.
-- Dashboards pour le monitoring serveur.
+- Metrics visualization with Grafana
+- Dashboards for server monitoring
 
 ### [Teleport](../teleport-en/)
-- Mise en place d'acccès sécurisés sur les serveurs.
-- Authentification MFA par technicien.
+- Implemented secure access on servers
+- MFA authentication for technicians
 
 ---
 
 ## 🧠 Compétences transversales
 
-- Travail en équipe (projets tutorés, binômes, projets)
-- Documentation technique
-- Présentation orale & synthèse
+- Teamwork (group projects, pairs, assignments)
+- Technical documentation
+- Oral presentations & synthesis
 
 ---
 
-[⬅ Retour à l'accueil]({{ '/en/index.md' | relative_url }})
+[⬅ Back to Home]({{ '/index.md' | relative_url }})

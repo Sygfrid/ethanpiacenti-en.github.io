@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "À propos"
+title: "About"
 permalink: /about-en/
 author_profile: true
 classes: wide

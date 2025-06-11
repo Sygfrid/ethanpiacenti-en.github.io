@@ -8,24 +8,24 @@ nav: en
 
 # 📊 Grafana
 
-Grafana est un outil de visualisation et d’analyse de données utilisé pour surveiller les performances des systèmes, des applications et des infrastructures.
+Grafana is a data visualization and analysis tool used to monitor the performance of systems, applications, and infrastructures.
 
 ![Grafana]({{ site.baseurl }}/assets/images/grafana.jpg)
 ---
 
-## 🧠 Pourquoi Grafana ?
+## 🧠 Why Grafana ?
 
-Durant mon stage / projet, j'ai utilisé Grafana pour :
+During my internship / project, I used Grafana to:
 
-- Créer des **dashboards** interactifs à partir de données système
-- Superviser des services comme **Zabbix**
-- Utiliser les données de base pour afficher des graphiques de différents formes (gauge, graphes..)
+- Create interactive **dashboards** from system data
+- Monitor services like **Zabbix**
+- Use base data to display graphs of different types (gauges, graphs...)
 
 ---
 
-## 🖼️ Exemple d'utilisation
+## 🖼️ Example of use
 
-Voici un aperçu de l’interface Grafana utilisée pour la supervision :
+Here is an overview of the Grafana interface used for monitoring:
 
 ![Dashboard1]({{ site.baseurl }}/assets/images/graph1.png)
 
@@ -33,25 +33,25 @@ Voici un aperçu de l’interface Grafana utilisée pour la supervision :
 
 ---
 
-## ⚙️ Ce que j’ai mis en place
+## ⚙️ What i set up
 
-- 🔌 Connexion de sources de données (Zabbix, Prometheus…)
-- 📈 Création de graphiques en temps réel
-- 🚨 Création de Dashboard pour analyser les problèmes
-
----
-
-## 🧩 Technologies associées
-
-- **Zabbix** (source de données)
+- 🔌 Connection of data source (Zabbix, Prometheus…)
+- 📈 Creation of real-time graphs
+- 🚨 Creation of dashboards to analyse issues
 
 ---
 
-## 💡 Ce que j’ai appris
+## 🧩 Associated Technologies
 
-> “J’ai pu comprendre l’importance d’un bon outil de supervision pour anticiper les incidents, analyser les performances réseau et prendre des décisions éclairées.”
+- **Zabbix** (data source)
 
 ---
 
-[⬅ Retour à mes projets]({{ '/en/skills/' | relative_url }})
+## 💡 What i learned
+
+> “I was able to understand the importance of a good monitoring tool to anticipate incidents, analyze network performance, and make informed decisions.”
+
+---
+
+[⬅ Back to my projects]({{ '/skills/' | relative_url }})
 

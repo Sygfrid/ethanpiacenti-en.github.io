@@ -9,54 +9,54 @@ nav: en
 
 # 📡 Zabbix
 
-**Zabbix** est un puissant outil de supervision réseau permettant de surveiller des machines, services et équipements en temps réel.  
-C’est l’une des solutions open source les plus utilisées dans le domaine de l’administration système.
+**Zabbix** is a powerful network monitoring tool that allows real-time monitoring of machines, services, and devices.
+It is one of the most widely used open-source solutions in the field of system administration.
 
 ---
 
-## 🧠 Pourquoi Zabbix ?
+## 🧠 Why Zabbix ?
 
-Lors de mon stage, j’ai mis en place une solution complète de supervision avec **Zabbix**.  
-Cela m’a permis de :
+During my internship, I implemented a complete monitoring solution with Zabbix.
+This allowed me to:
 
-- Surveiller les serveurs et services 24/7
-- Détecter les anomalies de manière proactive
-- Envoyer des **alertes par e-mail** en cas de panne
-- Suivre les métriques système comme la RAM, CPU, disque, trafic réseau
-
----
-
-## ⚙️ Ce que j’ai mis en place
-
-- 📦 Installation du serveur et des agents Zabbix sur Debian
-- 📊 Configuration de l’interface web et des hôtes supervisés
-- 📡 Intégration de SNMP pour la supervision de switchs
-- 📬 Mise en place des notifications par mail
-- 📁 Ajout de templates de supervision pour automatiser
+- Monitor servers and services 24/7
+- Proactively detect anomalies
+- Send email alerts in case of failure
+- Track system metrics such as RAM, CPU, disk, and network traffic
 
 ---
 
-## 🧩 Technologies associées
+## ⚙️ What i set up
+
+- 📦 Installation of the Zabbix server and agents on Debian
+- 📊 Configuration of the web interface and monitored hosts
+- 📡 SNMP integration for switch monitoring
+- 📬 Setup of email notifications
+- 📁 Added monitoring templates for automation
+
+---
+
+## 🧩 Associated Technologies
 
 - **Zabbix Server & Agent**
 - **SNMP**
 - **Debian / Linux**
-- **Postfix (alertes mail)**
+- **Postfix (email alerts)**
 
 ---
 
-## 💡 Ce que j’ai appris
+## 💡 What I learned
 
-> “Grâce à Zabbix, j’ai compris l’importance de la supervision dans un réseau. J’ai appris à identifier rapidement des anomalies, automatiser les alertes, et rendre les infrastructures plus fiables.”
+> “Thanks to Zabbix, I understood the importance of monitoring in a network. I learned to quickly identify anomalies, automate alerts, and make infrastructures more reliable.”
 
 ---
 
 ## 🖼️ Interface Zabbix
 
-Mon Dashboard principal :
+My main Dashboard :
 
 ![Dashboard Zabbix]({{ site.baseurl }}/assets/images/dashboardz.png)
 
 ---
 
-[⬅ Retour à mes projets]({{ '/en/skills/' | relative_url }})
+[⬅ Back to my projects]({{ '/skills/' | relative_url }})
