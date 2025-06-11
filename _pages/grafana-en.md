@@ -1,7 +1,8 @@
 ---
 layout: single
-title: "Visualisation des données"
+title: "Visualisation of Datas"
 permalink: /grafana-en/
+author_profile: true
 classes: wide
 nav: en
 ---

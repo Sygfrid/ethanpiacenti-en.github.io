@@ -1,7 +1,8 @@
 ---
 layout: single
-title: "Teleport"
+title: "Bastion"
 permalink: /teleport-en/
+author_profile: true
 classes: wide
 nav: en
 ---

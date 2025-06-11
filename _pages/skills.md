@@ -2,6 +2,7 @@
 layout: single
 title: "🛠️ My skills"
 permalink: /skills/
+author_profile: true
 classes: wide
 nav: en
 ---
@@ -56,7 +57,7 @@ I am currently preparing to enter my third year as a work-study student, in orde
 
 ---
 
-## 🧠 Compétences transversales
+## 🧠 Side skills
 
 - Teamwork (group projects, pairs, assignments)
 - Technical documentation

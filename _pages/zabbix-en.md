@@ -1,7 +1,8 @@
 ---
 layout: single
-title: "Supervision avec Zabbix"
+title: "Supervision with Zabbix"
 permalink: /zabbix-en/
+author_profile: true
 classes: wide
 nav: en
 ---
