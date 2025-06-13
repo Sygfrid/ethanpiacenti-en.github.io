@@ -16,6 +16,6 @@ excerpt: "Computer science Student — Portfolio of my skills and projects"
 Welcome to my portfolio!
 
 I'm a student in Networks & Telecommunications at the IUT of Luminy.
-I created this site to showcase my technical projects, networking skills, and hands-on experience gained during my studies and internship.
+I created this site to showcase my **technical projects**, **networking skills**, and **hands-on** experience gained during my studies and internship.
 
 Explore the sections to discover what I can do.
