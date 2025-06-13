@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Piacenti Ethan"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/tête.jpg"
   bio    : "Second Year Student in BUT Network and Telecom"
   links:
     - label: "GitHub"
